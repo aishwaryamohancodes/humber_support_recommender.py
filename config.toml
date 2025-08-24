@@ -1,0 +1,8 @@
+[server]
+headless = true
+enableCORS = true
+port = 8501
+
+[theme]
+base = "light"
+primaryColor = "#1a73e8"
